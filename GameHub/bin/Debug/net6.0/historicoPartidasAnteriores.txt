@@ -1,0 +1,6 @@
+{
+  "VitoriasJogador1": 0,
+  "VitoriasJogador2": 1,
+  "Empates": 0,
+  "QuantidadePartidas": 1
+}
